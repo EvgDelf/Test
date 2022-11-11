@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XY7Yb6BvQES08EfHigC1mdlk3K5nXOUzZPch3hfaDhBTHfRIdsXZLkmZLuuB7HQc1w9EqY32r0I9esXG1x/WbA==",
+  "success": true,
+  "projectFilePath": "D:\\VSprojects\\MDivination\\MDivination\\MDivination.iOS\\MDivination.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\katri\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\katri\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
